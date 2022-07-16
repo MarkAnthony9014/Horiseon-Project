@@ -18,4 +18,3 @@
 
 * Finished refactored code result: https://markanthony9014.github.io/Horiseon-Project/
 
-<img src="C:\Users\Mark\Desktop\Horiseon-Project\Develop\assets\images">
